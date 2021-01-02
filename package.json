@@ -3,6 +3,11 @@
   "version": "1.1.0",
   "author": "pr!de",
   "license": "MIT",
+  "homepage": "https://github.com/VadimPride/exmo-rest",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VadimPride/exmo-rest"
+  },
   "dependencies": {
     "crypto-js": "^4.0.0",
     "querystring": "^0.2.0",
