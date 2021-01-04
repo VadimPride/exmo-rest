@@ -1,6 +1,6 @@
 {
   "name": "exmo-rest",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "author": "pr!de",
   "license": "MIT",
   "homepage": "https://github.com/VadimPride/exmo-rest",
@@ -8,6 +8,7 @@
     "type": "git",
     "url": "git+https://github.com/VadimPride/exmo-rest"
   },
+  "keywords": ["exmo", "rest", "api"],
   "dependencies": {
     "crypto-js": "^4.0.0",
     "querystring": "^0.2.0",
