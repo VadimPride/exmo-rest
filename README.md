@@ -1,3 +1,8 @@
+#Exmo-Rest
+```bash
+npm install exmo-rest
+```
+
 
 ```javascript
 const exmoREST = require('exmo-rest');
