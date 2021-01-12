@@ -1,6 +1,6 @@
 #exmo-rest
 
-# Install
+# Install:
 ```bash
 npm install exmo-rest
 // OR
