@@ -3,9 +3,15 @@
 # Install:
 ```bash
 npm install exmo-rest
-// OR
-git clone https://github.com/VadimPride/exmo-rest.git
 ```
+ OR
+ 
+```bash
+git clone https://github.com/VadimPride/exmo-rest.git
+cd ./exmo-rest
+npm install
+```
+
 
 
 # Init:
