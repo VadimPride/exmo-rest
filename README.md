@@ -4,13 +4,14 @@ npm install exmo-rest
 ```
 
 
-```javascript
-const exmoREST = require('exmo-rest');
-```
-
 # Init:
+
 ```javascript
+
+const exmoREST = require('exmo-rest');
+
 let API;
+
 // Public and Private methods.
 API = new exmoREST('K-apiKey', 'S-secretKey');
 // OR (only Public api)
