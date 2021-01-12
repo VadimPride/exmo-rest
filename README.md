@@ -1,4 +1,4 @@
-#Exmo-Rest
+#exmo-rest
 ```bash
 npm install exmo-rest
 ```
