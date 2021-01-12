@@ -1,6 +1,10 @@
 #exmo-rest
+
+# Install
 ```bash
 npm install exmo-rest
+// OR
+git clone https://github.com/VadimPride/exmo-rest.git
 ```
 
 
